@@ -2,3 +2,11 @@ body{
   margin: 0;
   padding: 0;
 }
+.header{
+  color: black;
+  background-color: coral;
+}
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+}
